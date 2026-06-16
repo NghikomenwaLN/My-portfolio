@@ -18,7 +18,6 @@ import webbrowser
 import socket
 from urllib.parse import quote
 import shutil
-from tkinter import Tk, filedialog
 from flet_video import Video, VideoMedia
  
 # ============================================================================
