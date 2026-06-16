@@ -1,0 +1,38 @@
+{
+  "repo": "github.com/hjtpenny66",
+  "repo_url": "https://github.com/NghikomenwaLN",
+  "notes": "BlastX was a group project for a Mining Engineering app that detects material condition, severity, and confidence level. My individual role was UI/UX design. I created the splash screen ideas and logo concepts in Figma, giving the app a clear visual identity and a professional first impression.",
+  "impact_summary": "My design contribution supported the Mining Engineering purpose of BlastX by making the app easier to recognize and understand from the first screen. The splash screen and logo helped communicate material analysis before the user reached the condition, severity, and confidence results. In a large team, this made my contribution clear: I was responsible for the app's visual identity and opening user experience, not the detection model or backend code.",
+  "commits": [
+    {
+      "title": "BlastX visual identity design",
+      "details": "Designed the app logo concept in Figma to represent material checking and give the Mining Engineering app a clear brand identity."
+    },
+    {
+      "title": "Splash screen UI concepts",
+      "details": "Created splash screen designs in Figma for the opening experience of BlastX, focusing on clarity, professionalism, and engineering relevance."
+    },
+    {
+      "title": "UI design handoff to team",
+      "details": "Prepared visual direction that the development team could use when implementing the app interface and first-screen experience."
+    },
+    {
+      "title": "Engineering-focused interface presentation",
+      "details": "Aligned the design language with the app purpose: detecting material condition, severity, and confidence for engineering assessment."
+    }
+  ],
+  "pull_requests": [
+    {
+      "title": "Proposed splash screen and logo direction",
+      "details": "Contributed Figma design ideas for the app's first screen and brand identity instead of backend or detection-model code."
+    },
+    {
+      "title": "Reviewed visual consistency",
+      "details": "Checked that the splash screen, logo, and interface direction matched the BlastX purpose and looked appropriate for an engineering app."
+    },
+    {
+      "title": "Documented individual design contribution",
+      "details": "Recorded my role clearly so reviewers can distinguish my UI/UX design work from other team members' coding, model, or engineering-module work."
+    }
+  ]
+}
