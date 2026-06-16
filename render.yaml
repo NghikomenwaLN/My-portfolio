@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: nghikomenwa-portfolio
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python Myportfolio.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.4
+      - key: FLET_FORCE_WEB_SERVER
+        value: "1"
